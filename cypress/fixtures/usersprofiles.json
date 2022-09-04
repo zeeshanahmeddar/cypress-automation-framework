@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "address1": "123 Leanne Graham",
+    "city": "Bret",
+    "state": "Iowa",
+    "postcode": "77056",
+    "phone_mobile": "7700000031"
+  },
+  {
+    "id": 2,
+    "address1": "456 Ervin Howell",
+    "city": "Samantha",
+    "state": "Idaho",
+    "postcode": "77057",
+    "phone_mobile": "7700000032"
+  },
+  {
+    "id": 3,
+    "address1": "789 Clementine Bauch",
+    "city": "Kamren",
+    "state": "Ohio",
+    "postcode": "77058",
+    "phone_mobile": "7700000033"
+  }
+]
